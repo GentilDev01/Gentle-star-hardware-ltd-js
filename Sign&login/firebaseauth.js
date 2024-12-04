@@ -4,12 +4,7 @@
  import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.11.1/firebase-firestore.js"
  
  const firebaseConfig = {
-    apiKey: "AIzaSyA59Et0aIBSo95K_jIgSlXKSuAOOoRcMIA",
-    authDomain: "gentlestarhardwarewebsite.firebaseapp.com",
-    projectId: "gentlestarhardwarewebsite",
-    storageBucket: "gentlestarhardwarewebsite.firebasestorage.app",
-    messagingSenderId: "595896356794",
-    appId: "1:595896356794:web:5ea56dd2c9f71b86239783"
+    //add ur firebase code here 
  };
 
  // Initialize Firebase
